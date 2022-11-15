@@ -1,0 +1,37 @@
+Ciencia de adquisición, gestión y procesamiento de datos a gran escala.
+
+Un conjunto masivo de datos que no se pueden gestionar, pero se pueden utilizar en problemas empresariales
+hoola holi
+Para mi el big data es una parte de la informática la cual se encarga del tratado, de grandes cantidades de datos
+
+Es la recopilacion y tratamiento de grandes volumenes de datos para su estudio.
+
+Big Data hace referencia a grandes cantidades de datos.
+
+Consiste en el analisis y uso de cantidades excepcionalmente grandes de datos con el proposito de extraer informacion relevante, ya sea para estadisticas, para alimentar una inteligencia artificial un programa u otros propositos
+
+Es el conjunto formado por una gran cantidad de datos almacenables que se pueden procesar con el uso de sistemas de computación.
+
+Big data engloba a grandes cantidades de datos, su procesamiento y control.
+
+Big Data o Macrodatos se refiere a un gran conjunto de datos estructurados o no, sobre una materia, que se suele utilizar para realizar inferencias y obtener insights útiles para sacar conclusiones sobre materias o negocios
+
+para mi el big data es la agrupación o el tratramiento de una cantidad de datos desorbitada para diferentes usos como el comercial para situar grupos de personas o cosas.
+
+El Big Data es el manejo de grandes volumenes de datos teniendo como prioridad que los mismos estén seguros, ya sea de pérdidas o de modificaciones indeseadas.		
+    
+Entiendo que big data trata todo lo relacionado con el estudio de grandes bloques de datos a nivel estadístico, buscando patrones o ciertas diferencias que luego nos permitan realizar predicciones con el mínimo margen de error posible.
+
+Creo que se refiere a la gestion de grandes cantidades de datos.
+
+campo de la informática que estudia cantidades masivas de datos y su análisis.
+
+Es la recopilación y tratamiento de muchos datos
+
+Es la gestión y organización de las Bases de Datos masivas para después poder hacer uso de ellas con facilidad y flexibilidad, ya sea de una forma directa en una aplicación por parte de los usuarios o de forma indirecta por el equipo estratégico de una empresa para que este pueda tomar decisiones en base a las estadísticas recogidas de dichos datos.
+
+La big data es el conjunto de datos de tal tamaño y complejidad que un sofware convencional o común no tiene la capacidad o los recursos necesarios para manejar y trabajar con ellos, aun así es una de las mejores herramientas en el ámbitoempresarial y permite resolver casos antes imposibles de abarcar.
+
+El big data es la agrupación de datos para un estudio o un En Big Data es una recopilación enorme de datos para que luego sean analizados y tratados en su sitio centralizado para usarlos de manera optima en la toma de decisiones.
+
+En Big Data es una recopilación enorme de datos para que luego sean analizados y tratados en su sitio centralizado para usarlos de manera optima en la toma de decisiones.
